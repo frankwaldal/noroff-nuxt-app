@@ -1,6 +1,7 @@
 <template>
   <div class="container">
-    <h1>Frank Waldal</h1>
+    <h1 className='title'>Frank Waldal</h1>
+    <p>This is a nuxtjs and netlify task for workflow 2, MA2 at Noroff.</p>
   </div>
 </template>
 
